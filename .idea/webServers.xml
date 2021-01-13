@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="9240a7b5-fa15-428c-ad19-7136c4675fff" name="dlbyhand">
+        <fileTransfer accessType="SFTP" host="gpu.aiserver.cn" port="10023" sshConfigId="1ddc44f4-a473-4142-8a2a-6ad5511d904e" sshConfig="dlbyhand">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
